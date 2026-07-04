@@ -1,8 +1,34 @@
-- 👋 Hi, I’m @charles85
-- 👀 I’m interested in backend in development such as PHP, Laravel, Server Tuning and Security
-- 🌱 I’m currently learning React.js and Next.js
+# Hi there 👋 I'm Charles
 
-<!---
-charles85/charles85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Software Engineer** with over **20 years of experience** designing, building, and maintaining scalable software solutions across multiple industries.
+
+## 🚀 What I Do
+
+Throughout my career, I've worked on projects involving:
+
+* 📱 Telco SMS platforms and messaging systems
+* 💸 Remittance and cross-border payment systems
+* 💱 Currency exchange platforms
+* ⛓️ Blockchain applications and smart contracts
+* 📲 React Native mobile application development
+* ☁️ AWS cloud infrastructure, Linux server administration, performance tuning, and security
+* 🤖 AI integration and Model Context Protocol (MCP) environments
+
+I enjoy solving complex backend challenges, optimizing system performance, and building secure, reliable applications.
+
+## 👀 Interests
+
+I'm passionate about:
+
+* PHP & Laravel Development
+* Backend Architecture
+* REST API Design
+* Linux Administration
+* AWS Cloud Infrastructure
+* Server Performance Tuning
+* Application Security
+* AI-powered Developer Tools
+
+---
+
+> *"Build reliable software. Keep it simple. Optimize only where it matters."*
