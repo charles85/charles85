@@ -26,6 +26,7 @@ With over 20 years of software engineering experience, AI has become a powerful 
 I'm passionate about:
 
 * PHP & Laravel Development
+* Usability User Interface Design
 * Backend Architecture
 * REST API Design
 * Linux Administration
