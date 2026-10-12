@@ -13,7 +13,7 @@ Throughout my career, I've worked on projects involving:
 * 📲 React Native mobile application development
 * ☁️ AWS cloud infrastructure, Linux server administration, performance tuning, and security
 * 🤖 AI integration and Model Context Protocol (MCP) environments
-
+* With AI as my coding partner, I've become a 10x engineer.
 I enjoy solving complex backend challenges, optimizing system performance, and building secure, reliable applications.
 
 ## 👀 Interests
